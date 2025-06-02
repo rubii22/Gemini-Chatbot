@@ -9,7 +9,7 @@ A smart conversational assistant powered by **Google Gemini API** and built usin
 > 💬 Ask me anything:  
 > - “Who is the founder of OpenAI?”  
 > - “Give me a summary of artificial intelligence.”  
-> - “Tell me a fun fact about space!”
+> - “Tell me a fun fact about space!"
 
 ---
 
